@@ -1,5 +1,5 @@
 # hexagono-mousemove-vanillajs
-Hexagono con animacion mousemove vanilla js, html y css 
+Hexagono con simple animación mousemove vanilla js, html y css 
 
 ## Imagen y Live preview
 
