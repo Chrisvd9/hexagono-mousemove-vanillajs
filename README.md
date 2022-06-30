@@ -5,4 +5,4 @@ Hexagono con animacion mousemove vanilla js, html y css
 
 [Live preview](https://chrisvd9.github.io/react-tabs-simples-con-css/)
 
-![screenShot01](hexagono-mousemove-vanillajs.png)
+![screenShot01](hexagono-mousemove-vanilla.png)
